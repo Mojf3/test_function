@@ -1,3 +1,9 @@
+"""
+ChangePath.py: change windows path to wsl path
+"""
+from __future__ import print_function
+
+
 
 def change_path(path):
     if path[0]=='/':
